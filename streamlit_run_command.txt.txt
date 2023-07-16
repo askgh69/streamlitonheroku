@@ -1,0 +1,1 @@
+streamlit run ""C:\Users\aayus\OneDrive\Desktop\ML PROJECT\mlp1.py""
